@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikhilGudu
-- 👀 I’m interested in Software development,artificial intelligence,coding,hacking
+- 👀 I’m interested in Software development,artificial intelligence,making games.
 - 🌱 I’m currently Studying BSC(Physics honours)
-- 💞️ I’m looking to create world biggest & richest application like Google
+- 💞️ I’m looking to create an AI
 - 📫 you can reach me through e-mail
 
 <!---
