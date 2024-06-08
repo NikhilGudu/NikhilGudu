@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NikhilGudu
-- 👀 I’m interested in Software development,AI,Cyber security.
-- 🌱 I’m currently Studying BSC(Physics honours)
+- 👀 I’m interested in Software development , AI , Cyber security.
+- 🌱 I’m currently Completed my BSC degree (Physics honours)
+- Now I'm looking for MCA.
 
 <!---
 NikhilGudu/NikhilGudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
